@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const Banner3 = () => {
   return (
-    <div className="relative w-80 md:w-72 h-max p-6 bg-gray-100 ml-3 mt-2 flex-grow">
+    <div className="relative w-80 md:w-72 h-max p-6 bg-gray-100 ml-3 mt-2">
 
     {/* Image */}
     <div className='mt-[65px]'>
